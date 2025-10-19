@@ -25,5 +25,3 @@ It offers an interactive and data-driven view that helps in identifying growth p
 The goal of this project was to deliver a clear, visual understanding of how sales performance evolved between 2024 and 2025, enabling better strategic decisions and data-driven insights for continuous business improvement.
 
 ---
-
-💡 *This repository highlights how Power BI can transform raw inventory data into actionable business insights.*  
